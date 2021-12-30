@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yussufsh&show_icons=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yussufsh&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yussufsh&layout=compact) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yussufsh&theme=vue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
