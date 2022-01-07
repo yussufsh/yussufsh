@@ -7,14 +7,12 @@
 - 👯 I’m looking to collaborate on Golang, Terraform and k8/OpenShift projects.
 - 🤔 I’m looking for help with Golang and Terraform Plugin development.
 - 💬 Ask me about Terraform and OpenShift Deployment on IBM Power Systems.
-- 📫 How to reach me: [here](#connect-with-me-at)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-yussuf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yussuf/)](https://www.linkedin.com/in/yussuf)
+[![Twitter Badge](https://img.shields.io/badge/-yussufshaikh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yussufshaikh)](https://twitter.com/yussufshaikh)
+[![Medium Badge](https://img.shields.io/badge/-yussufshaikh-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/@yussufshaikh)](https://medium.com/@yussufshaikh)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am also contributing to [OCP on Power](https://github.com/ocp-power-automation) and [Terraform Ignition Provider](https://github.com/community-terraform-providers/terraform-provider-ignition)
 
-### Connect with me at:
-[![Linkedin Badge](https://img.shields.io/badge/-yussuf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yussuf/)](https://www.linkedin.com/in/yussuf)
-[![Twitter Badge](https://img.shields.io/badge/-yussufshaikh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yussufshaikh)](https://twitter.com/yussufshaikh)
-[![Medium Badge](https://img.shields.io/badge/-yussufshaikh-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/@yussufshaikh)](https://medium.com/@yussufshaikh)
 
 ### My work on GitHub:
 
