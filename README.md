@@ -16,12 +16,12 @@
 
 ### My work on GitHub:
 
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yussufsh&show_icons=false&include_all_commits=true&count_private=true&hide=stars) -->
+![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yussufsh&show_icons=false&include_all_commits=true&count_private=true&hide=stars)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yussufsh&layout=compact) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yussufsh&theme=transparent)](https://git.io/streak-stats)
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yussufsh&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yussufsh&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Views](https://komarev.com/ghpvc/?username=yussufsh)
