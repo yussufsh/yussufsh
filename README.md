@@ -2,8 +2,8 @@
 # Hi! I am Yussuf Shaikh 
 
 
-- 🔭 I’m currently working on [Quay](https://github.com/quay), [CSI Driver](https://github.com/kubernetes-sigs/ibm-powervs-block-csi-driver).
-- 🌱 I’m currently learning Kubernetes, Golang.
+- 🔭 I’m currently working on [AI Services](https://github.com/IBM/project-ai-services), [PowerVS CSI Driver](https://github.com/kubernetes-sigs/ibm-powervs-block-csi-driver).
+- 🌱 I’m currently learning AI, Kubernetes, Golang.
 - 👯 I’m looking to collaborate on Golang, Terraform and k8/OpenShift projects.
 - 🤔 I’m looking for help with Golang and Terraform Plugin development.
 - 💬 Ask me about Terraform and OpenShift Deployment on IBM Power Systems.
@@ -11,7 +11,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-yussufshaikh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yussufshaikh)](https://twitter.com/yussufshaikh)
 [![Medium Badge](https://img.shields.io/badge/-yussufshaikh-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/@yussufshaikh)](https://medium.com/@yussufshaikh)
 - 😄 Pronouns: He/Him/His.
-- ⚡ I am also contributing to [OCP on Power](https://github.com/ocp-power-automation) and [Terraform Ignition Provider](https://github.com/community-terraform-providers/terraform-provider-ignition) in addition to  [Terraform Provider](https://github.com/IBM-Cloud/terraform-provider-ibm) and [Go client](https://github.com/IBM-Cloud/power-go-client) for IBM® Power Systems™ Virtual Server.
+- ⚡ I am also contributing to [OCP on Power](https://github.com/ocp-power-automation), [Quay](https://github.com/quay) and [Terraform Ignition Provider](https://github.com/community-terraform-providers/terraform-provider-ignition) in addition to  [Terraform Provider](https://github.com/IBM-Cloud/terraform-provider-ibm) and [Go client](https://github.com/IBM-Cloud/power-go-client) for IBM® Power Systems™ Virtual Server.
 
 
 ### My work on GitHub:
